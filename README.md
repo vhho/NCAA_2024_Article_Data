@@ -7,25 +7,25 @@ Figure 5 below shows the proposed model for verifying the accuracy of Vietnamese
  
 ![image](https://github.com/vhho/NCAA_2024_Article_Data/assets/30404000/ab11cb9f-a7e9-4bdc-8740-e7d59a052762)
  
-(a) Stage 1
+                           (a) Stage 1
 
 ![image](https://github.com/vhho/NCAA_2024_Article_Data/assets/30404000/782870cb-c727-4547-992f-b2a7d0955b44)
 
-(b) Stage 2
+                           (b) Stage 2
 
 ![image](https://github.com/vhho/NCAA_2024_Article_Data/assets/30404000/8f86b792-c44b-4187-857c-d2a04a33252e)
 
-(c) Stage 3
+                           (c) Stage 3
 
 ![image](https://github.com/vhho/NCAA_2024_Article_Data/assets/30404000/31c8ba53-c73b-4553-b75c-afa70cb26f46)
 
-(d) Stage 4
+                           (d) Stage 4
 
 ![image](https://github.com/vhho/NCAA_2024_Article_Data/assets/30404000/34e0c252-8d5d-4385-981a-2b74296d5dcd)
 
-(d) Stage 5
-Figure 5: The proposed fact-checking model
+                           (d) Stage 5
 
+               **Figure 5: The proposed fact-checking model**
 
 The data used in this paper includes the following files:
 
