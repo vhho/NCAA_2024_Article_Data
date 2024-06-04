@@ -39,5 +39,5 @@ The data used in this paper includes the following files:
 
 **5) Claim Sentences:** This contains the sentences for fact-checking.
 
-**6) TriplesForFalseClaim** This comprises files containing triples collected from the internet related to False Claims, which will be combined with the triples in the 'Complete KG' dataset and the triples generated based on inference rules to create the 'Comprehensive KG' dataset.
+**6) TriplesForFalseClaim:** This comprises files containing triples collected from the internet related to False Claims, which will be combined with the triples in the 'Complete KG' dataset and the triples generated based on inference rules to create the 'Comprehensive KG' dataset.
 
