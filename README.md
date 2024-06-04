@@ -25,7 +25,7 @@ Figure 5 below shows the proposed model for verifying the accuracy of Vietnamese
 
                            (d) Stage 5
 
-               **Figure 5: The proposed fact-checking model**
+               Figure 5: The proposed fact-checking model
 
 The data used in this paper includes the following files:
 
